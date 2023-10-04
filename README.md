@@ -2,7 +2,7 @@
 Module 1 Challenge of the edX bootcamp
 
 ## Description
-This the final product of a challenge to modifying & recatoring a website to become more semantic and accesiable.
+This is the final product of a challenge to modifying & refactor a website to become more semantic and accesiable.
 
 ## Installation
 N/A
