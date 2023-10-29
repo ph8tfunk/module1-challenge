@@ -6,6 +6,9 @@ This is the final product of a challenge to modifying & refactor a website to be
 
 ##ScreenShot
 
+<img src="./assests/01-siteView.jpg">
+
+<a href="https://ph8tfunk.github.io/module1-challenge/">Module 1 Challenge live site</a>
 
 ## Installation
 N/A
