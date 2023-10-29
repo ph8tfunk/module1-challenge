@@ -4,9 +4,8 @@ Module 1 Challenge of the edX bootcamp
 ## Description
 This is the final product of a challenge to modifying & refactor a website to become more semantic and accesiable.
 
-##ScreenShon
+##ScreenShot
 
-![finance](https://github.com/ph8tfunk/module1-challenge/assets/137108048/806a90ea-2e20-425e-af19-836261cdc3b6)
 
 ## Installation
 N/A
